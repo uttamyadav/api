@@ -1,0 +1,257 @@
+[
+    {
+        "q": "Love is composed of a single soul inhabiting two bodies.",
+        "a": "Aristotle",
+        "h": "test"
+    },
+    {
+        "q": "To love and be loved is to feel the sun from both sides.",
+        "a": "David Viscott",
+        "h": "test"
+    },
+    {
+        "q": "Love does not dominate; it cultivates.",
+        "a": "Johann Wolfgang von Goethe",
+        "h": "test"
+    },
+    {
+        "q": "The best thing to hold onto in life is each other.",
+        "a": "Audrey Hepburn",
+        "h": "test"
+    },
+    {
+        "q": "Love recognizes no barriers. It jumps hurdles, leaps fences, penetrates walls to arrive at its destination full of hope.",
+        "a": "Maya Angelou",
+        "h": "test"
+    },
+    {
+        "q": "We are most alive when we're in love.",
+        "a": "John Updike",
+        "h": "test"
+    },
+    {
+        "q": "Love cures people—both the ones who give it and the ones who receive it.",
+        "a": "Karl Menninger",
+        "h": "test"
+    },
+    {
+        "q": "There is no charm equal to tenderness of heart.",
+        "a": "Jane Austen",
+        "h": "test"
+    },
+    {
+        "q": "Love is when the other person's happiness is more important than your own.",
+        "a": "H. Jackson Brown, Jr.",
+        "h": "test"
+    },
+    {
+        "q": "You know you're in love when you can't fall asleep because reality is finally better than your dreams.",
+        "a": "Dr. Seuss",
+        "h": "test"
+    },
+    {
+        "q": "The greatest thing you'll ever learn is just to love and be loved in return.",
+        "a": "Eden Ahbez",
+        "h": "test"
+    },
+    {
+        "q": "True love stories never have endings.",
+        "a": "Richard Bach",
+        "h": "test"
+    },
+    {
+        "q": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+        "a": "Unknown",
+        "h": "test"
+    },
+    {
+        "q": "Love is the bridge between you and everything.",
+        "a": "Rumi",
+        "h": "test"
+    },
+    {
+        "q": "Love is that condition in which the happiness of another person is essential to your own.",
+        "a": "Robert A. Heinlein",
+        "h": "test"
+    },
+    {
+        "q": "The best proof of love is trust.",
+        "a": "Joyce Brothers",
+        "h": "test"
+    },
+    {
+        "q": "Love is like the wind, you can't see it but you can feel it.",
+        "a": "Nicholas Sparks",
+        "h": "test"
+    },
+    {
+        "q": "To love is nothing. To be loved is something. But to love and be loved, that’s everything.",
+        "a": "T. Tolis",
+        "h": "test"
+    },
+    {
+        "q": "Love is not finding someone to live with; it's finding someone you can't live without.",
+        "a": "Rafael Ortiz",
+        "h": "test"
+    },
+    {
+        "q": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+        "a": "Lao Tzu",
+        "h": "test"
+    },
+	{
+        "q": "You come to love not by finding the perfect person, but by seeing an imperfect person perfectly.",
+        "a": "Sam Keen",
+        "h": "test"
+    },
+    {
+        "q": "Love doesn’t make the world go round. Love is what makes the ride worthwhile.",
+        "a": "Franklin P. Jones",
+        "h": "test"
+    },
+    {
+        "q": "Love is the only force capable of transforming an enemy into a friend.",
+        "a": "Martin Luther King Jr.",
+        "h": "test"
+    },
+    {
+        "q": "Love is a friendship set to music.",
+        "a": "Joseph Campbell",
+        "h": "test"
+    },
+    {
+        "q": "The giving of love is an education in itself.",
+        "a": "Eleanor Roosevelt",
+        "h": "test"
+    },
+    {
+        "q": "Love is not about possession. Love is about appreciation.",
+        "a": "Osho",
+        "h": "test"
+    },
+    {
+        "q": "There is always some madness in love. But there is also always some reason in madness.",
+        "a": "Friedrich Nietzsche",
+        "h": "test"
+    },
+    {
+        "q": "Where there is love there is life.",
+        "a": "Mahatma Gandhi",
+        "h": "test"
+    },
+    {
+        "q": "Love is when he gives you a piece of your soul, that you never knew was missing.",
+        "a": "Torquato Tasso",
+        "h": "test"
+    },
+    {
+        "q": "Love is the beauty of the soul.",
+        "a": "Saint Augustine",
+        "h": "test"
+    },
+    {
+        "q": "Love takes off masks that we fear we cannot live without and know we cannot live within.",
+        "a": "James Baldwin",
+        "h": "test"
+    },
+	{
+        "q": "Love is the greatest refreshment in life.",
+        "a": "Pablo Picasso",
+        "h": "test"
+    },
+    {
+        "q": "The heart has its reasons which reason knows not.",
+        "a": "Blaise Pascal",
+        "h": "test"
+    },
+    {
+        "q": "Love is an endless act of forgiveness. Forgiveness is me giving up the right to hurt you for hurting me.",
+        "a": "Beyoncé",
+        "h": "test"
+    },
+    {
+        "q": "There is no remedy for love but to love more.",
+        "a": "Henry David Thoreau",
+        "h": "test"
+    },
+    {
+        "q": "Love doesn't make the world go 'round. Love is what makes the ride worthwhile.",
+        "a": "Franklin P. Jones",
+        "h": "test"
+    },
+    {
+        "q": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved despite ourselves.",
+        "a": "Victor Hugo",
+        "h": "test"
+    },
+    {
+        "q": "Love is a canvas furnished by nature and embroidered by imagination.",
+        "a": "Voltaire",
+        "h": "test"
+    },
+    {
+        "q": "You don’t love someone because they’re perfect, you love them in spite of the fact that they’re not.",
+        "a": "Jodi Picoult",
+        "h": "test"
+    },
+    {
+        "q": "The best love is the kind that awakens the soul; that makes us reach for more, that plants the fire in our hearts and brings peace to our minds.",
+        "a": "Nicholas Sparks",
+        "h": "test"
+    },
+    {
+        "q": "Love all, trust a few, do wrong to none.",
+        "a": "William Shakespeare",
+        "h": "test"
+    },
+    {
+        "q": "The water shines only by the sun. And it is you who are my sun.",
+        "a": "Charles de Leusse",
+        "h": "test"
+    },
+    {
+        "q": "Love is the flower; you've got to let it grow.",
+        "a": "John Lennon",
+        "h": "test"
+    },
+    {
+        "q": "In the end, the love you take is equal to the love you make.",
+        "a": "Paul McCartney",
+        "h": "test"
+    },
+    {
+        "q": "Love is not something you find. Love is something that finds you.",
+        "a": "Loretta Young",
+        "h": "test"
+    },
+    {
+        "q": "Love is a game that two can play and both win.",
+        "a": "Eva Gabor",
+        "h": "test"
+    },
+    {
+        "q": "Love is the master key that opens the gates of happiness.",
+        "a": "Oliver Wendell Holmes",
+        "h": "test"
+    },
+    {
+        "q": "A loving heart is the truest wisdom.",
+        "a": "Charles Dickens",
+        "h": "test"
+    },
+    {
+        "q": "Love makes your soul crawl out from its hiding place.",
+        "a": "Zora Neale Hurston",
+        "h": "test"
+    },
+    {
+        "q": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+        "a": "Lao Tzu",
+        "h": "test"
+    },
+    {
+        "q": "To love at all is to be vulnerable.",
+        "a": "C.S. Lewis",
+        "h": "test"
+    }
+]
