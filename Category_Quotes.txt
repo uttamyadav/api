@@ -1,0 +1,29 @@
+[
+ {
+  "category_name" : "Love"
+ },
+ {
+  "category_name" : "Life"
+ },
+ {
+ "category_name" : "Success"
+ },
+ {
+ "category_name" : "Happiness"
+ },
+ {
+ "category_name" : "Friendship"
+ },
+ {
+ "category_name" : "Philosophical"
+ },
+ {
+ "category_name" : "Leadership"
+ },
+ {
+ "category_name" : "Courage"
+ },
+ {
+ "category_name" : "All"
+ }
+]
