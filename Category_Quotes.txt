@@ -24,6 +24,9 @@
  "category_name" : "Courage"
  },
  {
+ "category_name" : "Inspirational"
+ },
+ {
  "category_name" : "All"
  }
 ]
