@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Quote App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Quote App</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+        <p><strong>Last Updated:</strong> [Insert Date]</p>
+        
+        <h2>Introduction</h2>
+        <p>Thank you for using the Quote App. This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you use our app. Please read this policy carefully to understand our practices regarding your data.</p>
+        
+        <h2>Information We Collect</h2>
+        <p>The Quote App does not collect, store, or process any personal data. The app accesses and displays quotes from a static source file (Quotes_Json.txt) hosted on a public URL. No user information is required or processed while using the app.</p>
+        
+        <h2>How We Use Your Information</h2>
+        <p>Since the app does not collect personal data, there is no usage of your personal information. The app's functionality is limited to displaying pre-defined quotes from the provided source.</p>
+        
+        <h2>Third-Party Services</h2>
+        <p>The app does not integrate or interact with any third-party services, APIs, or tools that may collect user data.</p>
+        
+        <h2>Data Security</h2>
+        <p>The Quote App is designed to prioritize user security. As no personal data is collected, there are no risks of data breaches or unauthorized access to your information. The quotes are fetched from a publicly hosted file, which is read-only and static.</p>
+        
+        <h2>Children’s Privacy</h2>
+        <p>The Quote App does not collect data from users, including children. The content displayed (quotes) is designed for a general audience and does not include inappropriate or sensitive material.</p>
+        
+        <h2>Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Changes will be reflected on this page, and the "Last Updated" date at the top will be revised. You are advised to review this Privacy Policy periodically to stay informed about any updates.</p>
+        
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy or the practices of the Quote App, feel free to contact us at:</p>
+        <p><strong>Email:</strong> <a href="mailto:vishalukani112001@gmail.com">vishalukani112001@gmail.com</a></p>
+        
+        <h2>Conclusion</h2>
+        <p>By using the Quote App, you acknowledge that no personal information is collected or shared, and you agree to the terms of this Privacy Policy.</p>
+    </div>
+</body>
+</html>
