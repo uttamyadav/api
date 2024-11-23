@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "name": "Nature",
+      "query": "nature",
+      "examples": ["mountains", "forests", "rivers", "landscapes"]
+    },
+    {
+      "name": "Animals",
+      "query": "animals",
+      "examples": ["dogs", "cats", "wildlife", "birds"]
+    },
+    {
+      "name": "Technology",
+      "query": "technology",
+      "examples": ["gadgets", "AI", "coding", "computers"]
+    },
+    {
+      "name": "Space",
+      "query": "space",
+      "examples": ["stars", "planets", "galaxies", "astronomy"]
+    },
+    {
+      "name": "People",
+      "query": "people",
+      "examples": ["portraits", "groups", "lifestyle", "fashion"]
+    },
+    {
+      "name": "Abstract",
+      "query": "abstract",
+      "examples": ["patterns", "textures", "shapes", "minimal"]
+    },
+    {
+      "name": "Food",
+      "query": "food",
+      "examples": ["fruits", "recipes", "cooking", "restaurants"]
+    },
+    {
+      "name": "Travel",
+      "query": "travel",
+      "examples": ["destinations", "vacations", "landmarks", "cities"]
+    },
+    {
+      "name": "Sports",
+      "query": "sports",
+      "examples": ["football", "basketball", "fitness", "yoga"]
+    },
+    {
+      "name": "Architecture",
+      "query": "architecture",
+      "examples": ["buildings", "interiors", "modern", "historic"]
+    },
+    {
+      "name": "Business",
+      "query": "business",
+      "examples": ["meetings", "offices", "teamwork", "finance"]
+    },
+    {
+      "name": "Fashion",
+      "query": "fashion",
+      "examples": ["models", "clothing", "trends", "runway"]
+    },
+    {
+      "name": "Art",
+      "query": "art",
+      "examples": ["paintings", "drawings", "creative", "exhibitions"]
+    },
+    {
+      "name": "Health",
+      "query": "health",
+      "examples": ["wellness", "fitness", "medical", "hospitals"]
+    },
+    {
+      "name": "Education",
+      "query": "education",
+      "examples": ["books", "learning", "schools", "universities"]
+    },
+    {
+      "name": "Vehicles",
+      "query": "vehicles",
+      "examples": ["cars", "bikes", "airplanes", "ships"]
+    },
+    {
+      "name": "Music",
+      "query": "music",
+      "examples": ["instruments", "concerts", "artists", "headphones"]
+    },
+    {
+      "name": "Work",
+      "query": "work",
+      "examples": ["laptops", "desks", "remote work", "meetings"]
+    },
+    {
+      "name": "Family",
+      "query": "family",
+      "examples": ["parents", "kids", "pets", "gatherings"]
+    },
+    {
+      "name": "Seasonal",
+      "query": "seasonal",
+      "examples": ["winter", "summer", "spring", "fall", "holidays"]
+    }
+  ]
+}
