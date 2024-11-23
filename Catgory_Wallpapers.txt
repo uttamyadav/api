@@ -1,5 +1,4 @@
-{
-  "categories": [
+ [
     {
       "name": "Nature",
       "query": "nature",
@@ -101,4 +100,4 @@
       "examples": ["winter", "summer", "spring", "fall", "holidays"]
     }
   ]
-}
+
