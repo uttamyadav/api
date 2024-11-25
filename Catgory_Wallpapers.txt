@@ -1,103 +1,225 @@
- [
+{
+  "categories": [
     {
       "name": "Nature",
       "query": "nature",
-      "examples": ["mountains", "forests", "rivers", "landscapes"]
+      "examples": [
+        "mountains",
+        "forests",
+        "rivers",
+        "landscapes"
+      ],
+      "url": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxuYXR1cmV8ZW58MHx8fHwxNzMyNTEzMDc5fDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Animals",
       "query": "animals",
-      "examples": ["dogs", "cats", "wildlife", "birds"]
+      "examples": [
+        "dogs",
+        "cats",
+        "wildlife",
+        "birds"
+      ],
+      "url": "https://images.unsplash.com/photo-1725917482759-435bfa3d8d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxhbmltYWxzfGVufDB8fHx8MTczMjUxMzI5Mnww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Technology",
       "query": "technology",
-      "examples": ["gadgets", "AI", "coding", "computers"]
+      "examples": [
+        "gadgets",
+        "AI",
+        "coding",
+        "computers"
+      ],
+      "url": "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MXwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5fGVufDB8fHx8MTczMjUxMzMxMXww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Space",
       "query": "space",
-      "examples": ["stars", "planets", "galaxies", "astronomy"]
+      "examples": [
+        "stars",
+        "planets",
+        "galaxies",
+        "astronomy"
+      ],
+      "url": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxzcGFjZXxlbnwwfHx8fDE3MzI1MTMzMzN8MA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "People",
       "query": "people",
-      "examples": ["portraits", "groups", "lifestyle", "fashion"]
+      "examples": [
+        "portraits",
+        "groups",
+        "lifestyle",
+        "fashion"
+      ],
+      "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxwZW9wbGV8ZW58MHx8fHwxNzMyNTEzMzUxfDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Abstract",
       "query": "abstract",
-      "examples": ["patterns", "textures", "shapes", "minimal"]
+      "examples": [
+        "patterns",
+        "textures",
+        "shapes",
+        "minimal"
+      ],
+      "url": "https://images.unsplash.com/photo-1484589065579-248aad0d8b13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdHxlbnwwfHx8fDE3MzI1MTMzNzN8MA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Food",
       "query": "food",
-      "examples": ["fruits", "recipes", "cooking", "restaurants"]
+      "examples": [
+        "fruits",
+        "recipes",
+        "cooking",
+        "restaurants"
+      ],
+      "url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxmb29kfGVufDB8fHx8MTczMjUxMzM5MHww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Travel",
       "query": "travel",
-      "examples": ["destinations", "vacations", "landmarks", "cities"]
+      "examples": [
+        "destinations",
+        "vacations",
+        "landmarks",
+        "cities"
+      ],
+      "url": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxmb29kfGVufDB8fHx8MTczMjUxMzM5MHww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Sports",
       "query": "sports",
-      "examples": ["football", "basketball", "fitness", "yoga"]
+      "examples": [
+        "football",
+        "basketball",
+        "fitness",
+        "yoga"
+      ],
+      "url": "https://images.unsplash.com/photo-1599474924187-334a4ae5bd3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxzcG9ydHN8ZW58MHx8fHwxNzMyNTEzNDI1fDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Architecture",
       "query": "architecture",
-      "examples": ["buildings", "interiors", "modern", "historic"]
+      "examples": [
+        "buildings",
+        "interiors",
+        "modern",
+        "historic"
+      ],
+      "url": "https://images.unsplash.com/photo-1527576539890-dfa815648363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzMyNTEzNDQyfDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Business",
       "query": "business",
-      "examples": ["meetings", "offices", "teamwork", "finance"]
+      "examples": [
+        "meetings",
+        "offices",
+        "teamwork",
+        "finance"
+      ],
+      "url": "https://images.unsplash.com/photo-1665686310934-8fab52b3821b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxidXNpbmVzc3xlbnwwfHx8fDE3MzI1MTM0NTd8MA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Fashion",
       "query": "fashion",
-      "examples": ["models", "clothing", "trends", "runway"]
+      "examples": [
+        "models",
+        "clothing",
+        "trends",
+        "runway"
+      ],
+      "url": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxmYXNoaW9ufGVufDB8fHx8MTczMjUxMzQ3Mnww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Art",
       "query": "art",
-      "examples": ["paintings", "drawings", "creative", "exhibitions"]
+      "examples": [
+        "paintings",
+        "drawings",
+        "creative",
+        "exhibitions"
+      ],
+      "url": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxhcnR8ZW58MHx8fHwxNzMyNTEzNDkxfDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Health",
       "query": "health",
-      "examples": ["wellness", "fitness", "medical", "hospitals"]
+      "examples": [
+        "wellness",
+        "fitness",
+        "medical",
+        "hospitals"
+      ],
+      "url": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxoZWFsdGh8ZW58MHx8fHwxNzMyNTEzNTA5fDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Education",
       "query": "education",
-      "examples": ["books", "learning", "schools", "universities"]
+      "examples": [
+        "books",
+        "learning",
+        "schools",
+        "universities"
+      ],
+      "url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxlZHVjYXRpb258ZW58MHx8fHwxNzMyNTEzNTI0fDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Vehicles",
       "query": "vehicles",
-      "examples": ["cars", "bikes", "airplanes", "ships"]
+      "examples": [
+        "cars",
+        "bikes",
+        "airplanes",
+        "ships"
+      ],
+      "url": "https://images.unsplash.com/photo-1522780209919-d8d8b64e0e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHx2ZWhpY2xlc3xlbnwwfHx8fDE3MzI1MTM1Mzh8MA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Music",
       "query": "music",
-      "examples": ["instruments", "concerts", "artists", "headphones"]
+      "examples": [
+        "instruments",
+        "concerts",
+        "artists",
+        "headphones"
+      ],
+      "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxtdXNpY3xlbnwwfHx8fDE3MzI1MTM1NTR8MA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Work",
       "query": "work",
-      "examples": ["laptops", "desks", "remote work", "meetings"]
+      "examples": [
+        "laptops",
+        "desks",
+        "remote work",
+        "meetings"
+      ],
+      "url": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHx3b3JrfGVufDB8fHx8MTczMjUxMzU3MXww&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Family",
       "query": "family",
-      "examples": ["parents", "kids", "pets", "gatherings"]
+      "examples": [
+        "parents",
+        "kids",
+        "pets",
+        "gatherings"
+      ],
+      "url": "https://images.unsplash.com/photo-1628191013085-990d39ec25b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxmYW1pbHl8ZW58MHx8fHwxNzMyNTEzNTg1fDA&ixlib=rb-4.0.3&q=80&w=1080"
     },
     {
       "name": "Seasonal",
       "query": "seasonal",
-      "examples": ["winter", "summer", "spring", "fall", "holidays"]
+      "examples": [
+        "winter",
+        "summer",
+        "spring",
+        "fall",
+        "holidays"
+      ],
+      "url": "https://images.unsplash.com/photo-1607919966473-dd0aa8cf9085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w2Nzg4OTV8MHwxfHNlYXJjaHwxfHxzZWFzb25hbHxlbnwwfHx8fDE3MzI1MTM1OTl8MA&ixlib=rb-4.0.3&q=80&w=1080"
     }
   ]
-
+}
