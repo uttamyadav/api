@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for CDL Practice Test Prep App">
+    <title>Privacy Policy - CDL Practice Test Prep</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        a {
+            color: #0056b3;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for CDL Practice Test Prep</h1>
+        
+        <h2>Introduction</h2>
+        <p>This privacy policy applies to the CDL Practice Test Prep app ("Application") developed by Chako Developers ("Service Provider") as an Open Source service. This service is intended for use "AS IS".</p>
+        
+        <h2>Information Collection and Use</h2>
+        <p>The Application collects information when you download and use it, which may include:</p>
+        <ul>
+            <li>Your device's Internet Protocol (IP) address</li>
+            <li>Pages visited, time spent on pages, and visit timestamps</li>
+            <li>The operating system of your mobile device</li>
+        </ul>
+        <p>The Application does not collect precise location data.</p>
+        
+        <h2>Third Party Access</h2>
+        <p>The Application shares anonymized data with third-party services for improvement. Below are their privacy policies:</p>
+        <ul>
+            <li><a href="#">Google Play Services</a></li>
+            <li><a href="#">AdMob</a></li>
+            <li><a href="#">Google Analytics for Firebase</a></li>
+            <li><a href="#">Firebase Crashlytics</a></li>
+            <li><a href="#">Facebook</a></li>
+            <li><a href="#">Unity</a></li>
+            <li><a href="#">AppLovin</a></li>
+        </ul>
+        
+        <h2>Opt-Out Rights</h2>
+        <p>You can stop data collection by uninstalling the Application using standard uninstall methods.</p>
+        
+        <h2>Data Retention Policy</h2>
+        <p>User-provided data is retained as long as the Application is in use. For deletion requests, contact <a href="mailto:heypoco1230@gmail.com">heypoco1230@gmail.com</a>.</p>
+        
+        <h2>Children</h2>
+        <p>We do not knowingly collect personal information from children under 13. If such data is provided, contact us to remove it.</p>
+        
+        <h2>Security</h2>
+        <p>We take measures to safeguard your information through electronic, physical, and procedural security protocols.</p>
+        
+        <h2>Changes to this Policy</h2>
+        <p>This Privacy Policy may be updated periodically. Please review this page for any changes.</p>
+        
+        <h2>Your Consent</h2>
+        <p>By using the Application, you consent to this Privacy Policy.</p>
+        
+        <h2>Contact Us</h2>
+        <p>For questions regarding privacy, contact us at <a href="mailto:heypoco1230@gmail.com">heypoco1230@gmail.com</a>.</p>
+    </div>
+</body>
+</html>
+
